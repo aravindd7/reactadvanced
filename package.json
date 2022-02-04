@@ -1,0 +1,19 @@
+{
+  "name": "reactadvanced",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aravindd7/reactadvanced.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aravindd7/reactadvanced/issues"
+  },
+  "homepage": "https://github.com/aravindd7/reactadvanced#readme"
+}
